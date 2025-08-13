@@ -1,0 +1,4 @@
+﻿Parameter,Function
+\-@,Number of threads to use
+\-o,File name. Write final output to FILE rather than standard output
+\-T,Path to temp file. Using a temp file will help avoid memory issues
