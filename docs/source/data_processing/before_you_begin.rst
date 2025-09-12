@@ -5,7 +5,7 @@ Clone this repository:
 
 .. code-block:: console
 
-   git clone https://github.com/dovetail-genomics/LinkPrep.git
+   git clone git@github.com:dovetail-genomics/Dovetail-Analysis.git
 
 
 **Dependencies**
