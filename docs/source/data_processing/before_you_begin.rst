@@ -5,7 +5,7 @@ Clone this repository:
 
 .. code-block:: console
 
-   git clone git@github.com:dovetail-genomics/Dovetail-Analysis.git
+   git clone https://github.com/dovetail-genomics/Dovetail-Analysis.git
 
 
 **Dependencies**
