@@ -1,3 +1,3 @@
 # Dovetail Analysis
 Dovetail Analysis Resources
-https://dovetailanalysis.readthedocs.io/en/latest/
+https://dovetail-analysis.readthedocs.io/en/latest/
